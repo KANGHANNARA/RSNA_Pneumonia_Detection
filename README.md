@@ -38,4 +38,6 @@ $ python detect.py --weight [weighs path] --source [object directory] --save-txt
 이렇게 하면 바운딩 박스 좌표가 포함된 결과 이미지와 텍스트 파일이 생성됩니다. 기본 출력 경로는 yolov5/run/detect/exp입니다.
 YOLOv5에서 지원하는 다양한 옵션에 대한 자세한 내용은 YOLOv5 리포지토리를 참고하세요.
 
+yolov5_lung.ipynb 파일은 훈련모델링 노트북입니다.
+
 <img width='100%' src = 'https://user-images.githubusercontent.com/62852426/228880768-8f965ecf-9c51-41c3-9a4f-aed952fd0fd4.png'/>
