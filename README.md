@@ -15,3 +15,27 @@ RSNA Pneumonia Detection Challenge 흉부 X-ray 이미지에서 599개의 데이
 # Lung_detection.pt 가중치의 링크입니다.
 
 https://drive.google.com/file/d/10Hdiz1DGhlQ_pF6pl3HhW-n7F7nIN0UZ/view?usp=share_link
+
+# 사용하는 방법
+
+이 모델은 YOLOv5를 기반으로 하므로 먼저 YOLOv5 리포지토리를 복제해야 합니다:https://github.com/ultralytics/yolov5.git
+
+```
+$ git clone https://github.com/ultralytics/yolov5.git
+```
+
+다음으로 Lung_detection.pt 가중치를 다운로드하고 권장 경로에 배치합니다.
+
+```
+…/yolov5/models/lung_detection.pt
+```
+
+이제 yolov5 를 사용하여 Lung object detection을 사용할 수 있습니다. 자세한 내용은 yolov5 리포지토리를 참고하세요.:https://github.com/ultralytics/yolov5.git
+```
+$ cd .../yolov5
+$ python detect.py --weight [weighs path] --source [object directory] --save-txt
+```
+이렇게 하면 바운딩 박스 좌표가 포함된 결과 이미지와 텍스트 파일이 생성됩니다. 기본 출력 경로는 yolov5/run/detect/exp입니다.
+YOLOv5에서 지원하는 다양한 옵션에 대한 자세한 내용은 YOLOv5 리포지토리를 참고하세요.
+
+<img width='100%' src = 'https://user-images.githubusercontent.com/62852426/228880264-a8bdf347-153d-4ddc-a414-0183b92ea86e.jpg'/>
