@@ -45,4 +45,5 @@ yolov5_lung.ipynb 파일은 훈련모델링 노트북입니다.
 위의 yolov5 Lung image의 바운딩박스를 crop하여 u-net baseline segmentation을 적용하였습니다.
 다음은 캐글노트북 링크입니다.
 https://www.kaggle.com/code/score42/lung-segmentation-from-chest-x-ray-dataset/notebook
-<img width='100%' src = 'https://user-images.githubusercontent.com/62852426/230782809-24814476-718a-4b25-a22f-29c83b8c7a9f.png/>
+
+<img width='100%' src = 'https://user-images.githubusercontent.com/62852426/230782809-24814476-718a-4b25-a22f-29c83b8c7a9f.png'/>
