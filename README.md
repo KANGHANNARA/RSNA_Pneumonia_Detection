@@ -47,3 +47,5 @@ yolov5_lung.ipynb 파일은 훈련모델링 노트북입니다.
 https://www.kaggle.com/code/score42/lung-segmentation-from-chest-x-ray-dataset/notebook
 
 <img width='100%' src = 'https://user-images.githubusercontent.com/62852426/230782809-24814476-718a-4b25-a22f-29c83b8c7a9f.png'/>
+
+<img width='100%' src = 'https://user-images.githubusercontent.com/62852426/230782872-5fd983b1-34cc-4c61-902d-2d1ed3921415.png'/>
