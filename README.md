@@ -48,4 +48,5 @@ https://www.kaggle.com/code/score42/lung-segmentation-from-chest-x-ray-dataset/n
 
 <img width='100%' src = 'https://user-images.githubusercontent.com/62852426/230782809-24814476-718a-4b25-a22f-29c83b8c7a9f.png'/>
 
+왼쪽이 test 가운데가 test_mask 오른쪽이 predict_image
 <img width='100%' src = 'https://user-images.githubusercontent.com/62852426/230782872-5fd983b1-34cc-4c61-902d-2d1ed3921415.png'/>
