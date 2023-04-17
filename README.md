@@ -17,6 +17,10 @@
 
 <img width='30%' src='https://user-images.githubusercontent.com/62852426/232557602-02378052-685c-419c-b4a7-d34a6d518611.jpg'/>
 
+<img width='100%' src='https://user-images.githubusercontent.com/62852426/232557714-f714e3e4-244f-4799-bb2e-46e80fb48792.png'/>
+
+캐글점수입니다. 
+<img width='100%' src='https://user-images.githubusercontent.com/62852426/232557836-a5614063-1c9d-495c-85a5-8aa7b82ff99e.png'/>
 
 
 # LungObjectDetection_yolov5
