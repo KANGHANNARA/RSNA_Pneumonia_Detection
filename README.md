@@ -1,3 +1,8 @@
+# yolov5 RSNA_Pneumonia_Detection baseline 
+
+
+
+
 # LungObjectDetection_yolov5
 
 RSNA Pneumonia Detection Challenge 흉부 X-ray 이미지에서 599개의 데이터 세트를 라벨링한 후 yolov5 object-detection을 학습 yolov5_lung.ipynb 이 Lung object detection 입니다.
@@ -19,6 +24,7 @@ yolov5_lung.ipynb 파일은 훈련모델링 노트북입니다.
 위의 yolov5 Lung image의 바운딩박스를 crop하여 u-net baseline segmentation을 적용하였습니다.
 다음은 캐글노트북 링크입니다.
 https://www.kaggle.com/code/score42/lung-segmentation-from-chest-x-ray-dataset/notebook
+위의 파일에서 lung-segmentation-from-chest-x-ray-dataset.ipynb 이 캐글노트북 파일입니다.
 
 <img width='100%' src = 'https://user-images.githubusercontent.com/62852426/230782809-24814476-718a-4b25-a22f-29c83b8c7a9f.png'/>
 
