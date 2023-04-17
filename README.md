@@ -14,7 +14,8 @@
 --weights **yolov5m.pt**
 --name /content/drive/MyDrive/Pneumonia_model1_5peochs
 
-![val_batch0_pred.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa05737e-63eb-4f73-9b07-89bf7101963e/val_batch0_pred.jpg)
+
+<img width='30%' src='https://user-images.githubusercontent.com/62852426/232557602-02378052-685c-419c-b4a7-d34a6d518611.jpg'/>
 
 
 
