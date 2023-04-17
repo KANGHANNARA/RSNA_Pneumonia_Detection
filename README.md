@@ -7,15 +7,14 @@
 추가적인 전처리없이 모델 학습을 진행 하였으며 결과물을 제출하는 것까지 진행하였습니다.
 
 
-<aside>
-<img src="/icons/bullseye_gray.svg" alt="/icons/bullseye_gray.svg" width="40px" /> !python **train.py**
+!python **train.py**
 --img 416 --batch 16 --epochs 5
 --data /content/data.yaml
 --cfg /content/yolov5/models/yolov5m.yaml
 --weights **yolov5m.pt**
 --name /content/drive/MyDrive/Pneumonia_model1_5peochs
 
-</aside>
+![val_batch0_pred.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa05737e-63eb-4f73-9b07-89bf7101963e/val_batch0_pred.jpg)
 
 
 
