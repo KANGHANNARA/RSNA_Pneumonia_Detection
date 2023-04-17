@@ -1,6 +1,10 @@
 # yolov5 RSNA_Pneumonia_Detection baseline 
 
+이번 프로젝트의 목적은 모델의 성능의 증가가 아닌 여러가지 task에 여러가지 모델을 적용시켜 
 
+모델 과정을 학습하는 것이 목표입니다.
+
+추가적인 전처리없이 모델 학습을 진행 하였으며 결과물을 제출하는 것까지 진행하였습니다.
 
 
 # LungObjectDetection_yolov5
