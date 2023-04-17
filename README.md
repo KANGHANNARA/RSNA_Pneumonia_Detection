@@ -1,6 +1,6 @@
 # LungObjectDetection_yolov5
 
-RSNA Pneumonia Detection Challenge 흉부 X-ray 이미지에서 599개의 데이터 세트를 라벨링한 후 yolov5 object-detection을 학습
+RSNA Pneumonia Detection Challenge 흉부 X-ray 이미지에서 599개의 데이터 세트를 라벨링한 후 yolov5 object-detection을 학습 yolov5_lung.ipynb 이 Lung object detection 입니다.
 
 # labeling
 
