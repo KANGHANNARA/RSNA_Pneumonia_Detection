@@ -40,8 +40,15 @@ RSNA Pneumonia Detection Challenge 흉부 X-ray 이미지에서 599개의 데이
 
 
 yolov5_lung.ipynb 파일은 훈련모델링 노트북입니다.
-
+yolov5_lung_plusCXR.ipynb 파일은 훈련모델링 + 훈련모델링에 따라서 바운딩박스 좌표대로 원본 crop과 마스크이미지 crop을 생성할 수 있는 노트북입니다.
 <img width='100%' src = 'https://user-images.githubusercontent.com/62852426/228880768-8f965ecf-9c51-41c3-9a4f-aed952fd0fd4.png'/>
+
+
+/Lung_model1_20peochs/weights/
+경로의 best.pt 를 이용한다면 yolov5 task의 detect.py를 이용해서 테스트 이미지를 detection할수 있습니다.
+후에 lung segmentation에서 쓸 이미지를 crop 할 수 있습니다.
+
+
 
 위의 yolov5 Lung image의 바운딩박스를 crop하여 u-net baseline segmentation을 적용하였습니다.
 다음은 캐글노트북 링크입니다.
