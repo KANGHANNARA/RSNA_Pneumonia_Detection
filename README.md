@@ -14,6 +14,8 @@
 --weights **yolov5m.pt**
 --name /content/drive/MyDrive/Pneumonia_model1_5peochs
 
+/Pneumonia_model1_5peochs-20230415T175410Z-001/Pneumonia_model1_5peochs/weights/
+경로의 Lung_detection.pt 를 이용한다면 yolov5 task의 detect.py를 이용해서 테스트 이미지를 detection할수 있습니다
 
 <img width='30%' src='https://user-images.githubusercontent.com/62852426/232557602-02378052-685c-419c-b4a7-d34a6d518611.jpg'/>
 
