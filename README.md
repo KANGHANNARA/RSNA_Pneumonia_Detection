@@ -21,6 +21,10 @@
 
 <img width='100%' src='https://user-images.githubusercontent.com/62852426/232557714-f714e3e4-244f-4799-bb2e-46e80fb48792.png'/>
 
+성능 자체가 크게 높지 않아서 생각보다 병변을 잘 감지해내지 못하는 것 같습니다.
+
+추후에 폐를 크롭하거나 폐 부분만 segmentation하여 관심영역(ROI, region-of-interest) 영역만으로 병변을 검출해내는 것이 성능을 높이는 데 도움이 될 것 같습니다.
+
 캐글점수입니다. 
 <img width='100%' src='https://user-images.githubusercontent.com/62852426/232557836-a5614063-1c9d-495c-85a5-8aa7b82ff99e.png'/>
 
